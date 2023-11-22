@@ -1,0 +1,36 @@
+.home-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  background-color: #f5d0fe;
+}
+.card-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  width: 30%;
+  height: 30%;
+}
+.input-box {
+  width: 80%;
+  height: 30%;
+}
+.Body-card-con {
+  width: 80%;
+  height: 50%;
+  display: flex;
+  justify-content: space-between;
+}
+.button-attach-with-input-box {
+  width: 20%;
+  height: 30%;
+  background-color: #d946ef;
+  color: #ffffff;
+}
